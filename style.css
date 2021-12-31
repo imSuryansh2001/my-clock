@@ -1,0 +1,18 @@
+.theRow {
+  background-color: rgb(139, 18, 89);
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.myTime {
+  color: black;
+  background-color: rgb(255, 194, 245);
+  box-shadow: 8px 15px 22px #000000bd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.bi-alarm-fill{
+  color:rgb(255, 194, 245);
+}
+h1{
+  color:rgb(255, 194, 245);
+}
